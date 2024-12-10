@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="12.640055mm"
+   height="8.2444601mm"
+   viewBox="0 0 12.640055 8.2444601"
    version="1.1"
    id="svg5636"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="favicon-blended-oblique-blue-1.svg">
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5630" />
   <sodipodi:namedview
@@ -25,21 +25,30 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="34.66556"
-     inkscape:cy="1120.0633"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="105.71428"
+     inkscape:cy="242.14286"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="false"
      inkscape:window-width="1916"
-     inkscape:window-height="1157"
-     inkscape:window-x="0"
-     inkscape:window-y="41"
-     inkscape:window-maximized="0">
+     inkscape:window-height="1153"
+     inkscape:window-x="1920"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid6205" />
+       id="grid6205"
+       originx="0.00018945781"
+       originy="0.0086640001"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata5633">
@@ -49,14 +58,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(1.894578e-4,0.008664)">
     <g
        id="g5498"
        transform="translate(-3.2692416,-54.385746)"
@@ -74,11 +83,11 @@
       </g>
       <g
          aria-label="B"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          id="text5490">
         <path
            d="m 12.741341,57.893147 q 0.532268,0 0.831991,-0.268718 0.299723,-0.268717 0.299723,-0.738973 0,-0.304891 -0.211873,-0.465088 -0.206706,-0.160197 -0.599447,-0.160197 h -1.111043 l -0.320394,1.632976 z m -0.589111,3.374471 q 0.682129,0 1.049032,-0.325562 0.366902,-0.325561 0.366902,-0.935343 0,-0.387574 -0.253214,-0.573609 -0.253215,-0.186035 -0.775147,-0.186035 h -1.173055 l -0.39274,2.020549 z m 2.356445,-2.775025 q 0.506429,0.144694 0.780314,0.532267 0.279053,0.382406 0.279053,0.950847 0,1.245402 -0.930176,1.948201 -0.925008,0.697632 -2.604492,0.697632 H 8.7312504 l 1.5037846,-7.715291 h 2.98173 q 1.374593,0 2.030883,0.403076 0.661459,0.403076 0.661459,1.245402 0,0.707967 -0.387574,1.245402 -0.387573,0.532267 -1.012858,0.692464 z"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="path5503"
            inkscape:connector-curvature="0" />
       </g>
@@ -100,12 +109,12 @@
       </g>
       <g
          id="g5608"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#005580;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#005580;fill-opacity:1;stroke:none;stroke-width:0.264583"
          aria-label="B">
         <path
            inkscape:connector-curvature="0"
            id="path5606"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';fill:#005580;fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';fill:#005580;fill-opacity:1;stroke-width:0.264583"
            d="m 12.741341,57.893147 q 0.532268,0 0.831991,-0.268718 0.299723,-0.268717 0.299723,-0.738973 0,-0.304891 -0.211873,-0.465088 -0.206706,-0.160197 -0.599447,-0.160197 h -1.111043 l -0.320394,1.632976 z m -0.589111,3.374471 q 0.682129,0 1.049032,-0.325562 0.366902,-0.325561 0.366902,-0.935343 0,-0.387574 -0.253214,-0.573609 -0.253215,-0.186035 -0.775147,-0.186035 h -1.173055 l -0.39274,2.020549 z m 2.356445,-2.775025 q 0.506429,0.144694 0.780314,0.532267 0.279053,0.382406 0.279053,0.950847 0,1.245402 -0.930176,1.948201 -0.925008,0.697632 -2.604492,0.697632 H 8.7312504 l 1.5037846,-7.715291 h 2.98173 q 1.374593,0 2.030883,0.403076 0.661459,0.403076 0.661459,1.245402 0,0.707967 -0.387574,1.245402 -0.387573,0.532267 -1.012858,0.692464 z" />
       </g>
     </g>
