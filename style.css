@@ -8,3 +8,91 @@ body {
     padding: 0 1em;
     max-width: 800px;
 }
+
+
+h1 {
+    font-family: "Helvetica", sans-serif;
+    font-size: 180%;
+    line-height: 130%;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Helvetica", sans-serif;
+    font-size: 140%;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 130%;
+    margin-top: 2em;
+    /*    border-bottom: 3px solid #0070B7;*/ /* 005580 0070B7*/
+}
+
+
+h3 {
+    font-family: "Helvetica", sans-serif;
+    font-size: 120%;
+    font-style: normal;
+    font-weight: normal;
+    /*    line-height: 130%; */
+    /*    border-bottom: 3px solid #0070B7;*/ /* 005580 0070B7*/
+}
+
+
+
+nav {
+    font-family: "Helvetica", sans-serif;
+    font-size: 140%;
+    color: black;
+    border-bottom: 5px solid #0070B7; /* 005580 0070B7*/
+    margin: 0;
+    padding: 20px 0 0 0;
+}
+
+nav > ul {
+    list-style-type: none; /* remove bullets */
+    overflow: hidden;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul > li {
+    display: inline-block;
+    margin: 0 0.5em 0 0.5em; /* top right bottom left */
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #0070B7;
+    color: white;
+}
+
+/* markup for the skill meter using dots; alternatively consider the html <meter> tag */
+.dot {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: 4px;
+    border-radius: 50%;
+    border: 2px solid #2980b9;
+}
+
+.dot.filled {
+    background-color: #2980b9;
+}
